@@ -15,6 +15,10 @@ function pageChange(){
 	
 	location.href = "character_resume_2.html";
 }
+function resume(){
+	
+	location.href = "character_resume/Login/login_sign.html";
+}
 function mainPage(){
 	location.href = "character_resume.html";
 }
